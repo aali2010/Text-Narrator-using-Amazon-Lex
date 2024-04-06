@@ -1,6 +1,6 @@
 I created a text narrator using Amazon Polly.
 
-For this project I created an IAM role, a S3 Bucket and wrote Lambda function code.
+For this project I created an IAM role, an S3 Bucket and wrote Lambda function code.
 
 
 
